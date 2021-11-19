@@ -1,8 +1,6 @@
 # Button Component Package For React
 
-![button](https://github.com/minatavakoli/mtvk-button-react/blob/master/public/buttonimage.png)
-
-[![NPM version][npm-version-image]][npm-url] [![NPM downloads][npm-downloads-size-image]][npm-url] [![NPM downloads][npm-downloads-image]][downloads-url] [![MIT License][license-image]][license-url]
+![button-component](https://github.com/minatavakoli/mtvk-button-react/blob/master/public/buttonimage.png)
 
 #### Easy to use versatile buttons!
 
