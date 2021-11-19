@@ -1,6 +1,6 @@
 {
   "name": "mtvk-button-react",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "Easy to use versatile buttons in Reactjs!",
   "keywords": [
     "button",
@@ -10,6 +10,14 @@
   ],
   "author": "mina tavakoli <minatavakoli74@gmail.com>",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/minatavakoli/mtvk-button-react/issues"
+  },
+  "homepage": "https://github.com/minatavakoli/mtvk-button-react#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/minatavakoli/mtvk-button-react.git"
+  },
   "private": false,
   "main": "dist/index.js",
   "module": "dist/index.js",
