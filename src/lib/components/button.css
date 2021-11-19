@@ -1,0 +1,53 @@
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.default-style {
+    background-color: #1976d2;
+    width: 200px;
+    height: 80px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 16px;
+    box-shadow: 1px 1px 5px 1px #c0baba;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: IRANSans;
+    margin: 16px;
+}
+
+.btn-lg {
+    width: 200px;
+    height: 80px;
+    font-size: 20px;
+}
+
+.btn-md {
+    width: 160px;
+    height: 40px;
+    font-size: 18px;
+}
+
+.btn-sm {
+    width: 120px;
+    height: 30px;
+    font-size: 14px;
+}
+
+.btn-primary {
+    background-color: #19d26c;
+}
+
+.btn-secondary {
+    background-color: #d21951;
+}
+
+.btn-deactivate {
+    background-color: rgb(212, 204, 204);
+    cursor: not-allowed;
+}
