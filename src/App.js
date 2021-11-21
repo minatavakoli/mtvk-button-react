@@ -1,11 +1,12 @@
-
 import React from "react";
-import Button from "./lib/components/Button";   
+import Button from "./lib/components/Button";
 
 function App() {
   return (
-      <Button variant="secondary" label="ثبت نام" size="md" />
-  );
+    <>
+       <Button variant="secondary" size="md" label="ثبت نام" />
+    </>
+  )
 }
 
 export default App;

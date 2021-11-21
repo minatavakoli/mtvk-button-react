@@ -1,6 +1,6 @@
 {
   "name": "mtvk-button-react",
-  "version": "1.0.1",
+  "version": "1.0.6",
   "description": "Easy to use versatile buttons in Reactjs!",
   "keywords": [
     "button",
@@ -21,11 +21,11 @@
   "private": false,
   "main": "dist/index.js",
   "module": "dist/index.js",
-  "typings": "index.d.ts",
+  "typings": "dist/index.d.ts",
   "files": [
     "dist",
     "README.md",
-    "index.d.ts"
+    "src/lib/index.d.ts"
   ],
   "dependencies": {
     "@babel/polyfill": "^7.12.1",

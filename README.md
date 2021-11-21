@@ -1,6 +1,6 @@
 # Button Component Package For React
 
-![button-component](https://github.com/minatavakoli/mtvk-button-react/blob/master/public/buttonimage.png)
+![button-component](https://github.com/minatavakoli/mtvk-button-react/blob/main/public/buttonimage.png)
 
 #### Easy to use versatile buttons!
 
@@ -42,6 +42,7 @@ function App() {
 | variant  | null         | select (primary or secondary or deactivate or null) |
 | size     | null         | select (lg or md or sm or null) |
 | label    | null         | select (optional string) |
+| onClick  | null         | select (optional function) |
 
 ### License
 
